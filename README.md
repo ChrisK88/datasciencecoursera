@@ -1,2 +1,2 @@
 # datasciencecoursera
-## This is a markdown file
+This is the repository for my Data Science course on Coursera.
